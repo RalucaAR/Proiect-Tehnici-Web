@@ -1,0 +1,22 @@
+{
+  "comanda": [
+    {
+      "id": 101,
+      "nume": "Ionescu Maria",
+      "numarTelefon": "0725984309",
+      "tort": "Margret"
+    },
+    {
+      "id": 102,
+      "nume": "Popa Virgil",
+      "numarTelefon": "0723905309",
+      "tort": "Jasmine"
+    },
+    {
+      "id": 103,
+      "nume": "Radu Ion",
+      "numarTelefon": "0763450235",
+      "tort": "Laura"
+    }
+  ]
+}
